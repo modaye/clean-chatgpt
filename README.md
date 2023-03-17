@@ -42,5 +42,5 @@ The program is committed to maintaining a positive, friendly and inclusive commu
 ## contact information
 If you have any questions, suggestions or feedback, please email to `flywacool@gmail.com`。We'd love to hear from you！
 
-## 求助帮助
-我们正在寻找更多的志愿者来帮助我们改进这个项目。
+## ask for help
+We are looking for more volunteers to help us improve this program。
