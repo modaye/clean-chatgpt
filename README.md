@@ -21,14 +21,15 @@ If you are interested in contributing to this project，please👉[click](https:
 
 ## existing list
 1. [✨✨]       https://theb.ai/
-2. [✨✨]          https://chat.xeasy.me/
-3. [✨😵]          https://gpt.wxredcover.cn/
-4. [✨🦥]       https://gpt.h7ml.cn/
-5. [✨🦥]       https://chat.yqcloud.top/
-6. [😵🦥]            https://chat.forchange.cn/
-7. [🔓📡]       https://poe.com/chatgpt
-8. [🔓🍭]          https://myaskai.com/
-9. [🔑🔑]       https://ai.yiios.com/ 
+2. [✨✨]       https://www.cursor.so/    `need to install`
+3. [✨✨]          https://chat.xeasy.me/
+4. [✨😵]          https://gpt.wxredcover.cn/
+5. [✨🦥]       https://gpt.h7ml.cn/
+6. [✨🦥]       https://chat.yqcloud.top/
+7. [😵🦥]            https://chat.forchange.cn/
+8. [🔓📡]       https://poe.com/chatgpt
+9. [🔓🍭]          https://myaskai.com/
+10. [🔑🔑]       https://ai.yiios.com/ 
 
 ## community guide
 The program is committed to maintaining a positive, friendly and inclusive community. Be sure to follow the guidelines below：
